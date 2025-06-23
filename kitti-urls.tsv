@@ -1,0 +1,7 @@
+TsvHttpData-1.0
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_gray.zip	data_odometry_gray.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_color.zip	data_odometry_color.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip	data_odometry_velodyne.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_calib.zip	data_odometry_calib.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_poses.zip	data_odometry_poses.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/devkit_odometry.zip	devkit_odometry.zip
